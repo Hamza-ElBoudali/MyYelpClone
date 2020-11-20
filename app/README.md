@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='<iframe src='//gifs.com/embed/yelp-clone-Mw350O' frameborder='0' scrolling='no' width='986px' height='772px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/Mw350O.gif' ></iframe>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
